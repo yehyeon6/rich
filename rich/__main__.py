@@ -96,7 +96,7 @@ def make_test_card() -> Table:
 
     table.add_row(
         "Asian\nlanguage\nsupport",
-        ":flag_for_china:  该库支持中文，日文和韩文文本！\n:flag_for_japan:  ライブラリは中国語、日本語、韓国語のテキストをサポートしています\n:flag_for_south_korea:  이 라이브러리는 중국어, 일본어 및 한국어 텍스트를 지원합니다. \n  flag_for_germany, flag_for_spain,  flag_for_portugal 이 외에도 독일어, 스페인어, 포르투갈어 ,프랑스어, 이탈리아어를 지원합니다. flag_for_france, flag_for_italy"
+        ":flag_for_china:  该库支持中文，日文和韩文文本！\n:flag_for_japan:  ライブラリは中国語、日本語、韓国語のテキストをサポートしています\n:flag_for_south_korea:  이 라이브러리는 중국어, 일본어 및 한국어 텍스트를 지원합니다. \n:flag_for_germany, flag_for_spain,  flag_for_portugal 이 외에도 독일어, 스페인어, 포르투갈어 ,프랑스어, 이탈리아어를 지원합니다. flag_for_france, flag_for_italy"
     )
 
     markup_example = (
